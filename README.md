@@ -1,18 +1,10 @@
 #Ejemplo agregando Search in RecyclerView usando Kotlin
 
-[========]
 
-[========]
 
-[========]
+![logo](https://i.imgur.com/8mkJZoI.jpg)
 
-<center>![logo](https://i.imgur.com/8mkJZoI.jpg)
 
-[========]
-
-[========]
-
-[========]
 
 
 
@@ -20,7 +12,7 @@
 
 ![](Screenshot_1.jpg)
 ![](Screenshot_3.jpg)
-![](Screenshot_2.jpg)</center>
+![](Screenshot_2.jpg)
 
 [========]
 
