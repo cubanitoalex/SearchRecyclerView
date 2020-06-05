@@ -11,9 +11,11 @@
 > Hospital Lucia 2020
 
 ![](Screenshot_1.jpg)
-&nbsp;&nbsp;&nbsp;
+
+
 ![](Screenshot_3.jpg)
-&nbsp;&nbsp;&nbsp;
+
+
 ![](Screenshot_2.jpg)
 
 
